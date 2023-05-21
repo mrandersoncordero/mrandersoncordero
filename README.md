@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-I am currently working in a company as a software developer in php and web page maintenance and deployment of these applications on linux servers. Currently I continue to learn new technologies and I am passionate about developing programs.👯 I’m looking to collaborate on<br>
+I am currently working in a company as a software developer in php and web page maintenance and deployment of these applications on linux servers. Currently I continue to learn new technologies and I am passionate about developing programs.<br>
 
 
 ## 🌐 Socials:
